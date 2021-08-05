@@ -1,0 +1,46 @@
+body {
+	background-color: #eee;
+}
+
+.slider h3,
+.slider h5,
+.clients h3,
+.col h5,
+.col h6 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.about {
+	background-color: #ddd;
+}
+
+.parallax-container {
+	height: 20%;
+}
+
+.parallax img {
+	filter: grayscale(1);
+	opacity: 0 !important;
+}
+
+section, footer {
+	padding: 20px 0;
+}
+
+a {
+	color: grey;
+	transition: .5s;
+}
+
+a:hover {
+	color: black;
+}
+
+.button {
+	color: white;
+	background-color: green;
+	border: 1px solid lightgreen;
+	padding: 5px;
+	border-radius: 5px;
+}
+
